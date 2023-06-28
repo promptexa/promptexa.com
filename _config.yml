@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/promptexa/promptexa.com/main/images/lo
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hello@promptexa.com
+  email:
   facebook:
   flickr:
-  github: https://github.com/promptexa
+  github:
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: promptexa
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: /channel/UCOMv_wguxBrKcMTjIhhjf5A
+  youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
