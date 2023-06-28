@@ -18,7 +18,7 @@ Stay informed on the latest AI trends and advancements in prompt engineering. Fo
 
 ## Contact Us
 
-We value your feedback, suggestions, and ideas. If you have any questions, comments, or topics you'd like us to cover, please don't hesitate to reach out to us at [hello@promptexa.com]. We would love to hear from you!
+We value your feedback, suggestions, and ideas. If you have any questions, comments, or topics you'd like us to cover, please don't hesitate to reach out to us at [hello@promptexa.com](mailto:hello@promptexa.com). We would love to hear from you!
 
 We hope you find the Promptexa a valuable resource in your journey to become a skilled prompt engineer. Stay tuned for regular updates and enrich your knowledge to unlock new possibilities in the world of AI and prompt engineering.
 
