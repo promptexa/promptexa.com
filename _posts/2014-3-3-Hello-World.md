@@ -6,8 +6,6 @@ categories: [General]
 tags: [Introduction]
 ---
 
-# Hello, World!
-
 Welcome to the Promptexa Blog! We are excited to embark on this journey of sharing knowledge, insights, and ideas about prompt engineering, deep learning and artificial intelligence.
 
 In this inaugural post, we want to take a moment to introduce ourselves and give you a glimpse of what you can expect from our blog.
