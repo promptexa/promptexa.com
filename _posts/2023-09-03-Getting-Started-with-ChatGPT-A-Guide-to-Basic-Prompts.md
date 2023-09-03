@@ -6,8 +6,6 @@ categories: [General]
 tags: [Introduction]
 ---
 
-**Introduction:**
-
 [ChatGPT](https://platform.openai.com/docs/guides/chat), powered by OpenAI's GPT-3.5, is a powerful language model that can engage in natural and dynamic conversations. To make the most of ChatGPT's capabilities, crafting effective prompts is key. In this blog post, we'll explore the fundamentals of using basic prompts with ChatGPT and provide practical examples to kickstart your conversational AI journey.
 
 ## What is a Prompt?
